@@ -1,12 +1,18 @@
 body {
-  background-color: aliceblue;
-  text-align: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-/*   margin-top: 10%; */
-  font-family: Georgia, serif;
+  background-color: #e0f7fa;
+  font-family: 'Comic Sans MS', cursive;
 }
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+#end {
+  color: darkgreen;
+  background-color: #c8e6c9;
+  padding: 10px;
+
 
 html{
   height: 100%;
